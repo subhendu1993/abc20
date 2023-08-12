@@ -1,2 +1,7 @@
 Good Morning Floks Well comme to Devops...
+<<<<<<< HEAD
 good evening
+=======
+How are you all
+
+>>>>>>> 3c48eab726d64feca9ac7211c9751004e6a23f56
